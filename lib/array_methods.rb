@@ -26,5 +26,5 @@ array.length.times do |count|
   if count == 0
 min = array[count]
 else
-  if
+  if array[count]
 end
