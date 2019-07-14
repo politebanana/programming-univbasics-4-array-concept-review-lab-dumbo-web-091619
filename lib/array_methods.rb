@@ -29,3 +29,8 @@ else
   if array[count] < min
 min = array.count
 end
+end 
+end
+min
+end
+
