@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
   array do |count|
-    if array
+    if array[count]
 end
 
 def find_max_value(array)
